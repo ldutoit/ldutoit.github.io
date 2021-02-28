@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ludovic Dutoit"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research fellow and Bioinformatician @Otago"
+  location         : "Dunedin, New Zealand"
   employer         :
-  googlescholar    : https://scholar.google.com/citations?user=RS3wR_UAAAAJ&hl=en&oi=ao
+  googlescholar    : "https://scholar.google.com/citations?user=RS3wR_UAAAAJ&hl=en&oi=ao"
   email            :
   uri              :
   bitbucket        :
