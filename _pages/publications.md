@@ -23,6 +23,6 @@ You can find a full list of my publications on <a href="https://scholar.google.c
 
 ## World cloud
 <html class="gr__ldutoit_github_io"><head></head><body data-gr-c-s-loaded="true">
-    <img src="../Worldcloud.png" alt="foo">
+    <img src="../Wordcloud.png" alt="foo">
 
 </body></html>
