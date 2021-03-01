@@ -20,3 +20,9 @@ author_profile: true
 <sup>1</sup> These authors contributed equally
 
 You can find a full list of my publications on <a href="https://scholar.google.com/citations?user=RS3wR_UAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.
+
+## World cloud
+<html class="gr__ldutoit_github_io"><head></head><body data-gr-c-s-loaded="true">
+    <img src="../Worldcloud.png" alt="foo">
+
+</body></html>
