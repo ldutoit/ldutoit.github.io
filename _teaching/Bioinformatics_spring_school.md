@@ -2,9 +2,10 @@
 title: "Bioinformatics Spring School"
 collection: teaching
 type: "week-long workshop"
-permalink: /teaching/Bioinformatics_spring_school.md
+permalink: /teaching/Bioinformatics_spring_school
+venue: "University of Otago"
 date: 2020-11-23
-location: "Dunedin, New Zealand"
+location: "New Zealand"
 ---
 
 Held for the first time, the New Zealand bioinformatics school provided over 40 researchers with the essential bioinformatics toolkit. We combined talks from researchers and hands on computational workshops, covering example workflows of DNA variant calling, genotyping by sequencing (GBS), RNAseq analysis, and environmental DNA (eDNA).
