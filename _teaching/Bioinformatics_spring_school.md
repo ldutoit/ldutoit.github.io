@@ -4,7 +4,7 @@ collection: teaching
 type: "Week-long workshop"
 permalink: /teaching/Bioinformatics_Spring_School
 
-date: 2020-12
+date: 2020-11-23
 location: "Dunedin, New Zealand"
 ---
 
