@@ -8,7 +8,7 @@ date: 2020-11-23
 location: "New Zealand"
 ---
 
-This week-long event provided over 40 researchers with the essential bioinformatics toolkit. We combined talks from researchers and hands on computational workshops, covering example workflows of DNA variant calling, genotyping by sequencing (GBS), RNAseq analysis, and environmental DNA (eDNA).
+I co-organised this week-long event which provided over 40 researchers with the essential bioinformatics toolkit. We combined talks from researchers and hands on computational workshops, covering example workflows of DNA variant calling, genotyping by sequencing (GBS), RNAseq analysis, and environmental DNA (eDNA).
 Website: [Bioinformatics Spring school](https://otagocarpentries.github.io/bioinformatics-spring-school-2020/#curriculum)
 
 ### Overview
