@@ -12,5 +12,5 @@ This 3-weeks course was co-taught by Ludovic Dutoit, Lucas sinclair and Alexande
 
 [Repository for students](https://github.com/xapple/python_ebc_2016)     
 
-[Repository for teacher user (with pptx)](https://github.com/ldutoit/python_ebc_2016)
+[Repository for teacher (with pptx)](https://github.com/ldutoit/python_ebc_2016)
 
