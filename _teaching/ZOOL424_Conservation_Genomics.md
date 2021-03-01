@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/ZOOL424_Conservation_Genomics
 venue: "University of Otago"
-date: 2020-1-23
+date: 2020-07-08
 location: "New Zealand"
 ---
 I designed this fourth-year course that was taught for the first time in the Semester 2 2020. Along with this course, I developped two tiny online applications that allow visualisation of the loss of variation as a function of population size:
