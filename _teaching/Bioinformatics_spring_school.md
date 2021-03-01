@@ -1,55 +1,90 @@
 ---
-title: "Genotyping-by-Sequencing Workshop"
+title: "Bioinformatics Spring School"
 collection: teaching
-type: "two-days workshop"
-permalink: /teaching/GBS_workshop
-date: 2020-06-11
+type: "week-long workshop"
+permalink: /teaching/Bioinformatics_spring_school
+date: 2020-11-23
 location: "Dunedin, New Zealand"
 ---
 
-This two day workshop was designed to show how to process GBS/RAD data through hands-on analysis using the Stacks software pipeline. It will be opened by a mini-symposium where researchers will share experiences using GBS/RADseq to answer questions in their researcWebsite: [Genotyping-by-Sequencing in Ecology and Evolution] (https://otagomohio.github.io/2019-06-11_GBS_EE/)
-
+Held for the first time, the New Zealand bioinformatics school provided over 40 researchers with the essential bioinformatics toolkit. We combined talks from researchers and hands on computational workshops, covering example workflows of DNA variant calling, genotyping by sequencing (GBS), RNAseq analysis, and environmental DNA (eDNA).
+Website: [Bioinformatics Spring school](https://otagocarpentries.github.io/bioinformatics-spring-school-2020/#curriculum)
 
 ### Overview
 
-### Practical workshop on the analysis of reduced representation libraries using Stacks
+November 23-27 2020 | Murray Cazdow, Ngoni Faya, Dinindu Senanayake, Ludovic Dutoit
 
-June 11-12 2019 | Ludovic Dutoit and Alana Alexander
+### Bioinformatic topics
 
-## Description
-With the age of high\-throughput sequencing, several techniques have been developed to
-genotype thousands of markers across hundreds of individuals at relatively low\-cost. One
-group of those methods, Genotyping\-by\-Sequencing (GBS) cuts down on the amount of the genome sequenced
-by using restriction enzymes to repeatedly sequence the same genomic locations across
-individuals. The thousands of loci sequenced can bring high resolution to population
-genomic or phylogenomic analyses at a fraction of the cost associated with whole genome
-sequencing.
+#### DNA variant calling from next generation sequence data
 
-This two day workshop is designed to show how to process GBS/RAD data through
-hands\-on analysis using the Stacks software pipeline. It will be opened by a [mini-symposium](sessions/minisymposium.md)
-where researchers will share experiences using GBS/RADseq to answer questions in their
-research.
+- Project organisation
+- Assessing read quality
+- Trimming and filtering
+- Variant calling workflow
+- Automating a variant calling workflow
 
-## Schedule
 
-**Day 1 - June 11 2019**
+#### Genotype-by-sequencing analysis (RAD-Sequencing)
+ 
+- Data quality assessment
+- Calling variant workflow using Stacks (with or without a reference genome)
+- Basic population genetic analyses (population structure, phylogenetic tree) 
 
-Time | Topic | Location |
-------|------|-----|
-09:00-12:30 | [Mini Symposium: Genotyping-by-Sequencing and its applications in ecology and evolution](sessions/minisymposium.md) | [Seminar Room, Benham Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
-12:30-13:15 | *Lunch Break* | |
-13:15-13:45 | Participant introduction | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
-13:45-15:00 | [Introduction to the command line, part 1](sessions/Introcommandline.md) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
-15:00-15:30 | *Break* | |
-15:30-17:00 | [Introduction to the command line, part 2](sessions/Introcommandline.md) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
-17:00- | *End of day 1 - Social* | [The captain Cook hotel](https://goo.gl/maps/NjKa1BaWLUEhYv93A)|
- | | |
-**Day 2** | **June 12 2019** | |
-09:00-10:30 | [From raw reads to individual samples](sessions/stacks.md)  | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
-10:30-11:00 | *Break* | |
-11:00-12:30 | [SNP calling in the absence of a genome part 1](sessions/stacks.md) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
-12:30-13:30 | *Lunch Break* | |
-13:30-15:00 | [SNP calling in the absence of a genome part 2](sessions/stacks.md) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
-15:00-15:30 | *Break* | |
-15:30-17:00 | [Filtering your SNPs](sessions/filteringSNPs.md) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
-17:00 | End of the workshop | |
+#### RNA-sequencing differential expression analysis
+
+- Quality assessment
+- Trimming and filtering
+- Mapping and count
+- Differential expression
+- Overrepresentation analysis
+
+#### Environmental DNA analysis
+ 
+- Next-generation sequencing approaches for environmental samples (metabarcoding)
+- Demultiplexing and quality assessment of NGS amplicon data
+- Clustering and denoising of sequence data
+- Determine species composition of samples (taxonomic assignment)
+- community ecology statistics for eDNA results
+
+### Computational Topics
+
+These topics will be integrated into the bioinformatics workshops and built upon across the week with the goal of demostrating a best practices workflow approach to Bioinformatics analysis.
+
+#### Introduction to the Unix command line (Bash)
+
+Many bioinformatic programs will only operate in a Unix command line environment, as such we need to provide an introduction to working in this environment which will cover:
+
+- Navigating around the filesystem (files/directories/folders)
+- Running command line based programs
+- Creating scripts to automate workflows
+
+#### Introduction to R
+
+Analysis portions of the workshops will be performed using R. As such we will provide a brief introduction to R. This will include:
+
+- How to interact with R
+- Creating objects
+- How to use functions
+- How to install and use packages
+
+#### Introduction to working in a high performance computing environment
+
+We'll be making use of the New Zealand eScience Infrastructure (NeSI), which is the national provider of high performance computing for researchers, to run our analysis and as part of this we'll cover:
+
+- What/who is NeSI
+- Logging onto a remote computer
+- Transfer of data to/from a remote computer
+- What is a job scheduler and how to use it
+- How to request a project allocation on NeSI
+
+
+#### Introduction to version control using git
+
+Running programs on the command line gives us the opportunity to save the commands used in scripts that we can reuse later on. It's important that as we develop these scripts that we have a machanism to track the changes made. Git is a program that enables us to track the changes we make and see the differences between previous versions. The introduction to version control will cover:
+
+- Setting up Git
+- Using git to track changes on scripts
+- How to view changes between versions of scripts
+- Use git to look at previous versions of scripts
+
