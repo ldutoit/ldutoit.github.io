@@ -38,17 +38,17 @@ Time | Topic | Location |
 09:00-12:30 | [Mini Symposium: Genotyping-by-Sequencing and its applications in ecology and evolution](https://otagomohio.github.io/2019-06-11_GBS_EE/sessions/minisymposium.md) | [Seminar Room, Benham Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
 12:30-13:15 | *Lunch Break* | |
 13:15-13:45 | Participant introduction | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
-13:45-15:00 | [Introduction to the command line, part 1](https://otagomohio.github.io/2019-06-11_GBS_EE/sessions/Introcommandline.md) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
+13:45-15:00 | [Introduction to the command line, part 1](https://otagomohio.github.io/2019-06-11_GBS_EE/sessions/Introcommandline) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
 15:00-15:30 | *Break* | |
-15:30-17:00 | [Introduction to the command line, part 2](https://otagomohio.github.io/2019-06-11_GBS_EE/sessions/Introcommandline.md) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
+15:30-17:00 | [Introduction to the command line, part 2](https://otagomohio.github.io/2019-06-11_GBS_EE/sessions/Introcommandline) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
 17:00- | *End of day 1 - Social* | [The captain Cook hotel](https://goo.gl/maps/NjKa1BaWLUEhYv93A)|
  | | |
 **Day 2** | **June 12 2019** | |
-09:00-10:30 | [From raw reads to individual samples](https://otagomohio.github.io/2019-06-11_GBS_EE/sessions/stacks.md)  | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
+09:00-10:30 | [From raw reads to individual samples](https://otagomohio.github.io/2019-06-11_GBS_EE/sessions/stacks)  | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
 10:30-11:00 | *Break* | |
-11:00-12:30 | [SNP calling in the absence of a genome part 1](https://otagomohio.github.io/2019-06-11_GBS_EE/sessions/stacks.md) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
+11:00-12:30 | [SNP calling in the absence of a genome part 1](https://otagomohio.github.io/2019-06-11_GBS_EE/sessions/stacks) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
 12:30-13:30 | *Lunch Break* | |
-13:30-15:00 | [SNP calling in the absence of a genome part 2](https://otagomohio.github.io/2019-06-11_GBS_EE/sessions/stacks.md) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
+13:30-15:00 | [SNP calling in the absence of a genome part 2](https://otagomohio.github.io/2019-06-11_GBS_EE/sessions/stacks) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
 15:00-15:30 | *Break* | |
-15:30-17:00 | [Filtering your SNPs](https://otagomohio.github.io/2019-06-11_GBS_EE/sessions/filteringSNPs.md) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
+15:30-17:00 | [Filtering your SNPs](https://otagomohio.github.io/2019-06-11_GBS_EE/sessions/filteringSNPs) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
 17:00 | End of the workshop | | 
