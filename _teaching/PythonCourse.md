@@ -2,7 +2,7 @@
 title: "Python Course"
 collection: teaching
 type: "3 weeks Course"
-permalink: /teaching/Python_digital_lab
+permalink: /teaching/PythonCourse
 venue: "University of Uppsala"
 date: 2016-11-06
 location: "Sweden"
