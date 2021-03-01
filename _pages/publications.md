@@ -16,8 +16,6 @@ author_profile: true
 4)	**Dutoit, L.**, Vijay, N., Mugal, C. F., Bossu, C. M., Burri, R., Wolf, J., & Ellegren, H. (2017). Covariation in levels of nucleotide diversity in homologous regions of the avian genome long after completion of lineage sorting. Proceedings of the Royal Society B: Biological Sciences, 284(1849), 20162756.
 
 5)	**Dutoit, L.**, Burri, R., Nater, A., Mugal, C. F., & Ellegren, H. (2017). Genomic distribution and estimation of nucleotide diversity in natural populations: Perspectives from the collared flycatcher (Ficedula albicollis) genome. Molecular Ecology Resources, 17(4), 586–597. (from the cover)
-![image](https://user-images.githubusercontent.com/4376065/109439749-80d31e00-7a94-11eb-80fa-97d83b7b2662.png)
-
 
 \* These authors contributed equally
 
