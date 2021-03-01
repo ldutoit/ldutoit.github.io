@@ -2,7 +2,7 @@
 title: "ZOOL424: Conservation Genomics"
 collection: teaching
 type: "Graduate course"
-permalink: ZOOL424_Conservation_Genomics
+permalink: /teaching/ZOOL424_Conservation_Genomics
 venue: "University of Otago"
 date: 2020-07-08
 location: "New Zealand"
