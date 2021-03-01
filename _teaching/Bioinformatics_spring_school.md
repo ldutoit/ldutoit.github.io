@@ -2,7 +2,8 @@
 title: "Bioinformatics spring school"
 collection: teaching
 type: "Week-long workshop"
-permalink: /teaching/2020-winter-teaching-1
+permalink: /teaching/Bioinformatics_Spring_School
+
 date: 2020-12
 location: "Dunedin, New Zealand"
 ---
