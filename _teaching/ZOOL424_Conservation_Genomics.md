@@ -11,7 +11,7 @@ I designed this fourth-year course that was taught for the first time in the Sem
 [Genetic drift app](https://popgenlulu.shinyapps.io/geneticdrift) [Loss of heterozygosity app](https://popgenlulu.shinyapps.io/lossofheterozygosity/)
 
 ### Course Outline
-Course Co-ordinator: Ludovic Dutoit . Invited Lectures: Bruce Robertson and Alana Alexander
+Course Co-ordinator: Ludovic Dutoit. Invited Lectures: Bruce Robertson and Alana Alexander
 
 Conservation Genetics is an interdisciplinary basic and applied science that deals with
 the genetic factors that influence extinction risk and the genetic management required
