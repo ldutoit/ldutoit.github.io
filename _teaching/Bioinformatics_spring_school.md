@@ -3,13 +3,12 @@ title: "Bioinformatics spring school"
 collection: teaching
 type: "Week-long workshop"
 permalink: /teaching/Bioinformatics_Spring_School
-
 date: 2020-11-23
 location: "Dunedin, New Zealand"
 ---
 
-Bioinformatics spring school website]
-(https://otagocarpentries.github.io/bioinformatics-spring-school-2020/#curriculum)
+We taught the first New Zealand bioinformatics School providing 40 new researchers with the essential tools of the field. We combined talks from researchers and hands on computational workshops , covering example workflows of DNA variant calling, genotyping by sequencing (GBS), RNAseq analysis, and environmental DNA (eDNA).
+Website: [Bioinformatics spring school] (https://otagocarpentries.github.io/bioinformatics-spring-school-2020/)
 
 
 ### Bioinformatic topics
