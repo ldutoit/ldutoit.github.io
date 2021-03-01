@@ -2,9 +2,10 @@
 title: "Genotyping-by-Sequencing Workshop"
 collection: teaching
 type: "two-days workshop"
-permalink: /teaching/GBS_workshop.md
+permalink: /teaching/GBS_workshop
+venue: "University of Otago"
 date: 2019-06-11
-location: "Dunedin, New Zealand"
+location: "New Zealand"
 ---
 
 I designed this two workshop to demonstrate how to process GBS/RAD data through hands-on analysis using the Stacks software pipeline. 
