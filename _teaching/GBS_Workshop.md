@@ -53,4 +53,4 @@ Time | Topic | Location |
 13:30-15:00 | [SNP calling in the absence of a genome part 2](sessions/stacks.md) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
 15:00-15:30 | *Break* | |
 15:30-17:00 | [Filtering your SNPs](sessions/filteringSNPs.md) | [Seminar Room, Marples Building](https://goo.gl/maps/62XWtwgqsKxKir4V9) |
-17:00 | End of the workshop | |
+17:00 | End of the workshop | | 
