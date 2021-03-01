@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Publications
 
-1)	Ruzicka, F., **Dutoit, L.<sup>1</sup> **, Czuppon, P., Jordan, C. Y., Li, X.-Y., Olito, C. & others (2020). The search for sexually antagonistic genes: Practical insights from studies of local adaptation and statistical genomics. Evolution Letters, 4(5), 398-415
+1)	Ruzicka, F., **Dutoit, L.<sup>1</sup>**, Czuppon, P., Jordan, C. Y., Li, X.-Y., Olito, C. & others (2020). The search for sexually antagonistic genes: Practical insights from studies of local adaptation and statistical genomics. Evolution Letters, 4(5), 398-415
 
 2)	Cole, T. L., **Dutoit, L.**, Dussex, N., Hart, T., Alexander, A., Younger, J. L., Clucas, G. V., Frugone, M. J., Cherel, Y., Cuthbert, R., & others. (2019). Receding ice drove parallel expansions in Southern Ocean penguins. Proceedings of the National Academy of Sciences, 116(52), 26690–26696.
 
