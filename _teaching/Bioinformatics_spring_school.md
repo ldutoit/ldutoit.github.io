@@ -13,7 +13,7 @@ Website: [Bioinformatics Spring school](https://otagocarpentries.github.io/bioin
 
 ### Overview
 
-November 23-27 2020 | Murray Cazdow, Ngoni Faya, Dinindu Senanayake, Ludovic Dutoit
+November 23-27 2020 | Organisers: Murray Cazdow, Ngoni Faya, Dinindu Senanayake, Ludovic Dutoit
 
 ### Bioinformatic topics
 
