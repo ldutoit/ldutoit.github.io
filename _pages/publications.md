@@ -21,8 +21,11 @@ author_profile: true
 
 You can find a full list of my publications on <a href="https://scholar.google.com/citations?user=RS3wR_UAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.
 
-## World cloud
+## Word cloud
+
 <html class="gr__ldutoit_github_io"><head></head><body data-gr-c-s-loaded="true">
     <img src="../Wordcloud.png" alt="foo">
 
 </body></html>
+
+This World cloud is based on all the abstracts of my publications.
