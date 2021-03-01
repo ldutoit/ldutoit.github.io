@@ -1,5 +1,5 @@
 ---
-title: "Python Intro"
+title: "Python Introductory Workshop"
 collection: teaching
 type: "3 hour workshop"
 permalink: /teaching/Python_digital_lab
