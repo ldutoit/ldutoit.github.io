@@ -9,7 +9,7 @@ location: "New Zealand"
 ---
 
 We designed this workshop to demonstrate how to process GBS/RAD data through hands-on analysis using the Stacks software pipeline. 
-Website: [Genotyping-by-Sequencing in Ecology and Evolution] (https://otagomohio.github.io/2019-06-11_GBS_EE/)
+Website: [Genotyping-by-Sequencing in Ecology and Evolution](https://otagomohio.github.io/2019-06-11_GBS_EE/)
 
 ### Overview
 
