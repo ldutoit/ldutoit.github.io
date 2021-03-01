@@ -13,7 +13,7 @@ Welcome to my personal website! I am a Research fellow and a bioinformatician at
 I also love teaching. this tiny website should help you find [resources I/we might have talked about in a workshop](https://ldutoit.github.io/teaching/) or in a class as well as share a bit of [research code](https://ldutoit.github.io/code/) I developed. 
 
 <html class="gr__ldutoit_github_io"><head></head><body data-gr-c-s-loaded="true">
-    <img src="https://github.com/ldutoit/ldutoit.github.io/blob/master/collage_home.png" alt="foo">
+    <img src="../collage_home.png" alt="foo">
 
 </body></html>
 
