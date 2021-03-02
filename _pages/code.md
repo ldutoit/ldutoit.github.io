@@ -10,7 +10,9 @@ This page is dedicated to available research repository. For teaching material, 
 
 *In construction*
 
-{% for post in site.resources%}
-  {% include archive-resource.html %}
+{% for post in site.code%}
+  {% include archive-code.html %}
 {% endfor %}
+
+
 
