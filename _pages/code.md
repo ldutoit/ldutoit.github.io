@@ -12,6 +12,6 @@ This page is dedicated to available research repository. For teaching material, 
 
 {% for post in site.code %}
 {% include archive-single.html %} 
-{% endfor %}{% endfor %}
+{% endfor %}
 
 
