@@ -9,7 +9,7 @@ author_profile: true
 
 1)	Ruzicka, F., **Dutoit, L.<sup>1</sup>**, Czuppon, P., Jordan, C. Y., Li, X.-Y., Olito, C. & others (2020). The search for sexually antagonistic genes: Practical insights from studies of local adaptation and statistical genomics. *Evolution Letters**, 4(5), 398-415 [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.192)
 
-2)	Young, M. J., **Dutoit, L.**, Robertson, F., van Heezik, Y., Seddon, P. J., & Robertson, B. C. (2020). Species in the faeces: DNA metabarcoding as a method to determine the diet of the endangered yellow-eyed penguin. *Wildlife Research*, 47(6), 509-522. [Link](https://www.publish.csiro.au/WR/WR19246) | [NZ Geographic coverage](https://www.nzgeo.com/stories/hoiho-need-to-eat-better/)
+2)	Young, M. J., **Dutoit, L.**, Robertson, F., van Heezik, Y., Seddon, P. J., & Robertson, B. C. (2020). Species in the faeces: DNA metabarcoding as a method to determine the diet of the endangered yellow-eyed penguin. *Wildlife Research*, 47(6), 509-522. [Link](https://www.publish.csiro.au/WR/WR19246) | [NZ Geographic coverage](https://www.nzgeo.com/stories/hoiho-need-to-eat-better/) | [Radio New Zealand Coverage](https://www.rnz.co.nz/national/programmes/morningreport/audio/2018765232/penguin-poo-dna-analysis-raises-concerns)
 
 3)	Cole, T. L., **Dutoit, L.**, Dussex, N., Hart, T., Alexander, A., Younger, J. L., Clucas, G. V., Frugone, M. J., Cherel, Y., Cuthbert, R., & others. (2019). Receding ice drove parallel expansions in Southern Ocean penguins. *Proceedings of the National Academy of Sciences*, 116(52), 26690–26696. [Link](https://www.pnas.org/content/116/52/26690.short)                                                                                            
                                          
