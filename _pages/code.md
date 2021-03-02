@@ -11,7 +11,7 @@ This page is dedicated to available research repository. For teaching material, 
 
 *In construction*
 
-{% for post in code.publications reversed %}
+{% for post in site.code reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
