@@ -8,7 +8,7 @@ date: 2016-11-06
 location: "Sweden"
 ---
 
-This 3-weeks course was co-organized by Ludovic Dutoit, Lucas sinclair and Alexander Eiler to Graduate Students and Researchers. This course lasted just over 3 weeks, starting by two weeks focused on learning the central concepts of object-oriented programming before moving onto personal projects.
+This course was co-organized by Ludovic Dutoit, Lucas sinclair and Alexander Eiler to Graduate Students and Researchers. This course lasted just over 3 weeks, starting by two weeks focused on learning the central concepts of object-oriented programming before moving onto personal projects.
 
 [Repository for students](https://github.com/xapple/python_ebc_2016)     
 
