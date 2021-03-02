@@ -25,13 +25,28 @@ You can find a full list of my publications on <a href="https://scholar.google.c
 
 ## Journal Covers
 
-I have been lucky enough to have some of the research involved in featured on the cover of Molecular Ecology and Molecular Ecology Ressources
+I have been lucky enough to have some of the research involved in featured on the cover of *Molecular Ecology* and *Molecular Ecology Ressources*
 
-../men.2017.17.issue-4.cover.jpg]
 
-../mec.2018.27.issue-18.cover.jpg]
+<html class="gr__ldutoit_github_io"><head></head><body data-gr-c-s-loaded="true">
+    <img src="../men.2017.17.issue-4.cover.png" alt="foo">
 
-../mec.v28.13.cover.jpg
+</body></html>
+
+
+<html class="gr__ldutoit_github_io"><head></head><body data-gr-c-s-loaded="true">
+    <img src="../../mec.v28.13.cover.png" alt="foo">
+
+</body></html>
+
+
+<html class="gr__ldutoit_github_io"><head></head><body data-gr-c-s-loaded="true">
+    <img src="../mec.2018.27.issue-18.cover.png" alt="foo">
+
+</body></html>
+
+
+
 
 ## Word cloud
 
