@@ -13,7 +13,7 @@ This page is dedicated to available research repository. For teaching material, 
 
 {% for post in site.code reversed %}
   {% include archive-resources.html %}
-{% endfor %}
+{% endfor %} 
 
 
 
