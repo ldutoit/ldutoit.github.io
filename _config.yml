@@ -249,7 +249,7 @@ defaults:
       path: ""
       type: code
     values:
-      layout: resources
+      layout: code
       author_profile: true
       share: true
       
