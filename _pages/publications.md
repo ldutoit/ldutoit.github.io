@@ -23,6 +23,16 @@ author_profile: true
 
 You can find a full list of my publications on <a href="https://scholar.google.com/citations?user=RS3wR_UAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.
 
+## Journal Covers
+
+I have been lucky enough to have some of the research involved in featured on the cover of Molecular Ecology and Molecular Ecology Ressources
+
+../men.2017.17.issue-4.cover.jpg]
+
+../mec.2018.27.issue-18.cover.jpg]
+
+../mec.v28.13.cover.jpg
+
 ## Word cloud
 
 <html class="gr__ldutoit_github_io"><head></head><body data-gr-c-s-loaded="true">
