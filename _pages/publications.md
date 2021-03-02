@@ -28,13 +28,13 @@ You can find a full list of my publications on <a href="https://scholar.google.c
 I have been lucky enough to have some of the research involved in featured on the cover of *Molecular Ecology* and *Molecular Ecology Ressources*
 <div class="row">
   <div class="column">
-    <img src="../men.2017.17.issue-4.cover.png" alt="Snow" style="width:100%">
+    <img src="../men.2017.17.issue-4.cover.png" alt="Snow" style="width:20%">
   </div>
   <div class="column">
-    <img src="../mec.v28.13.cover.png" alt="Forest" style="width:100%">
+    <img src="../mec.v28.13.cover.png" alt="Forest" style="width:20%">
   </div>
   <div class="column">
-    <img src="./mec.2018.27.issue-18.cover.png" alt="Mountains" style="width:100%">
+    <img src="./mec.2018.27.issue-18.cover.png" alt="Mountains" style="width:20%">
   </div>
 </div>
 
