@@ -29,19 +29,19 @@ I have been lucky enough to have some of the research involved in featured on th
 
 
 <html class="gr__ldutoit_github_io"><head></head><body data-gr-c-s-loaded="true">
-    <img src="../men.2017.17.issue-4.cover.png" alt="foo">
+    <img src="../men.2017.17.issue-4.cover.png" width="200" height="300" alt="foo">
 
 </body></html>
 
 
 <html class="gr__ldutoit_github_io"><head></head><body data-gr-c-s-loaded="true">
-    <img src="../../mec.v28.13.cover.png" alt="foo">
+    <img src="../mec.v28.13.cover.png" width="200" height="300" alt="foo">
 
 </body></html>
 
 
 <html class="gr__ldutoit_github_io"><head></head><body data-gr-c-s-loaded="true">
-    <img src="../mec.2018.27.issue-18.cover.png" alt="foo">
+    <img src="../mec.2018.27.issue-18.cover.png" width="200" height="300" alt="foo">
 
 </body></html>
 
