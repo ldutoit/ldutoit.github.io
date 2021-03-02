@@ -1,7 +1,7 @@
 ---
 title: "Test"
 collection: code
-permalink: /code/ALIGN
+permalink: /code/code-align
 citation: '<b>ALIGN</b>. Python library for extracting quantitative,
 reproducible metrics of multi-level alignment between two speakers in
 naturalistic language corpora.'
