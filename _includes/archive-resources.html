@@ -26,11 +26,9 @@
       </div>
     {% endif %}
     {% if post.resourceurl %}
-    <a href="{{ post.resourceurl }}" rel="permalink">
-    {% endif %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}
-    {% if post.resourceurl %}
-    </a>
+      <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.resourceurl }}" rel="permalink">{{ post.citation }}</a>
+    {% else %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}
     {% endif %}
     <br>
     {% if post.paperurl %}
