@@ -12,12 +12,19 @@ author_profile: true
 2)	Young, M. J., **Dutoit, L.**, Robertson, F., van Heezik, Y., Seddon, P. J., & Robertson, B. C. (2020). Species in the faeces: DNA metabarcoding as a method to determine the diet of the endangered yellow-eyed penguin. *Wildlife Research*, 47(6), 509-522. [Link](https://www.publish.csiro.au/WR/WR19246)  [NZ Geographic coverage](https://www.nzgeo.com/stories/hoiho-need-to-eat-better/)
 
 3)	Cole, T. L., **Dutoit, L.**, Dussex, N., Hart, T., Alexander, A., Younger, J. L., Clucas, G. V., Frugone, M. J., Cherel, Y., Cuthbert, R., & others. (2019). Receding ice drove parallel expansions in Southern Ocean penguins. *Proceedings of the National Academy of Sciences*, 116(52), 26690–26696. [Link](https://www.pnas.org/content/116/52/26690.short)                                                                                            
-                                                                                           
-4)	**Dutoit, L.**, Mugal, C., Bolívar, P., Wang, M., Nadachowska-Brzyska, K., Smeds, L., Gustafsson, L., & Ellegren, H. (2018). Sex-biased gene expression, sexual antagonism and levels of genetic diversity in the collared flycatcher (*Ficedula albicollis*) genome. *Molecular Ecology*, 27(18), 3572–3581. (From the cover) [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14789)  [News and Views Article](https://onlinelibrary.wiley.com/doi/10.1111/mec.14787)
+                                         
+<img align="right" width="100" height="150" src="../  mec.v28.13.cover.png">
 
+
+4) McCulloch, G. A., Foster, B. J., **Dutoit, L.**, Ingram, T., Hay, E., Veale, A. J., ... & Waters, J. M. (2019). Ecological gradients drive insect wing loss and speciation: The role of the alpine treeline. Molecular ecology, 28(13), 3141-3150.[Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.15114)
+                                    
+                                         
 <img align="right" width="100" height="150" src="../mec.2018.27.issue-18.cover.png">
+                   
+                   
+5)	**Dutoit, L.**, Mugal, C., Bolívar, P., Wang, M., Nadachowska-Brzyska, K., Smeds, L., Gustafsson, L., & Ellegren, H. (2018). Sex-biased gene expression, sexual antagonism and levels of genetic diversity in the collared flycatcher (*Ficedula albicollis*) genome. *Molecular Ecology*, 27(18), 3572–3581. (From the cover) [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14789)  
 
-5)	**Dutoit, L.**, Vijay, N., Mugal, C. F., Bossu, C. M., Burri, R., Wolf, J., & Ellegren, H. (2017). Covariation in levels of nucleotide diversity in homologous regions of the avian genome long after completion of lineage sorting. *Proceedings of the Royal Society B: Biological Sciences*, 284(1849), 20162756. [Link](https://royalsocietypublishing.org/doi/10.1098/rspb.2016.2756)
+6)	**Dutoit, L.**, Vijay, N., Mugal, C. F., Bossu, C. M., Burri, R., Wolf, J., & Ellegren, H. (2017). Covariation in levels of nucleotide diversity in homologous regions of the avian genome long after completion of lineage sorting. *Proceedings of the Royal Society B: Biological Sciences*, 284(1849), 20162756. [Link](https://royalsocietypublishing.org/doi/10.1098/rspb.2016.2756)
 
 
 <img align="right" width="100" height="150" src="../men.2017.17.issue-4.cover.png">
