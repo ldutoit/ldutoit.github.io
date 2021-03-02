@@ -26,7 +26,17 @@ You can find a full list of my publications on <a href="https://scholar.google.c
 ## Journal Covers
 
 I have been lucky enough to have some of the research involved in featured on the cover of *Molecular Ecology* and *Molecular Ecology Ressources*
-
+<div class="row">
+  <div class="column">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
 <html class="gr__ldutoit_github_io"><head></head><body data-gr-c-s-loaded="true">
     <img src="../men.2017.17.issue-4.cover.png" width="200" height="300" alt="foo">
