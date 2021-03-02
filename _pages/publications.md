@@ -15,12 +15,12 @@ author_profile: true
                                                                                            
 4)	**Dutoit, L.**, Mugal, C., Bolívar, P., Wang, M., Nadachowska-Brzyska, K., Smeds, L., Gustafsson, L., & Ellegren, H. (2018). Sex-biased gene expression, sexual antagonism and levels of genetic diversity in the collared flycatcher (*Ficedula albicollis*) genome. *Molecular Ecology*, 27(18), 3572–3581. (From the cover) [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14789)  [News and Views Article](https://onlinelibrary.wiley.com/doi/10.1111/mec.14787)
 
-<img align="left" width="100" height="150" src="../mec.2018.27.issue-18.cover.png">
+<img align="right" width="100" height="150" src="../mec.2018.27.issue-18.cover.png">
 5)	**Dutoit, L.**, Vijay, N., Mugal, C. F., Bossu, C. M., Burri, R., Wolf, J., & Ellegren, H. (2017). Covariation in levels of nucleotide diversity in homologous regions of the avian genome long after completion of lineage sorting. *Proceedings of the Royal Society B: Biological Sciences*, 284(1849), 20162756. [Link](https://royalsocietypublishing.org/doi/10.1098/rspb.2016.2756)
 
 
 
-
+<img align="right" width="100" height="150" src="../men.2017.17.issue-4.cover.png">
 6)	**Dutoit, L.**, Burri, R., Nater, A., Mugal, C. F., & Ellegren, H. (2017). Genomic distribution and estimation of nucleotide diversity in natural populations: Perspectives from the collared flycatcher (*Ficedula albicollis*) genome. *Molecular Ecology Resources*, 17(4), 586–597. (From the cover) [Link](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12602) [[News and Views Article]](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12632)
 
 <sup>1</sup> These authors contributed equally
