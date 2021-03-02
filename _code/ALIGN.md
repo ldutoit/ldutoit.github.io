@@ -10,4 +10,3 @@ githuburl: 'https://github.com/nickduran/align-linguistic-alignment'
 oa_paperurl: 'https://psyarxiv.com/a5yh9/'
 ---
 
-pouet
