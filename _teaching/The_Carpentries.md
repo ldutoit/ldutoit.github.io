@@ -1,5 +1,5 @@
 ---
-title: "The carpentries - Essentials of code and digital litteracy"
+title: "The carpentries - Essentials of coding and digital litteracy"
 collection: teaching
 type: "Workshops"
 permalink: /teaching/The_Carpentries
