@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Publications
 
-1)	Ruzicka, F., **Dutoit, L.<sup>1</sup>**, Czuppon, P., Jordan, C. Y., Li, X.-Y., Olito, C. & others (2020). The search for sexually antagonistic genes: Practical insights from studies of local adaptation and statistical genomics. *Evolution Letters**, 4(5), 398-415 [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.192)
+1)	Ruzicka, F., **Dutoit, L.<sup>1</sup>**, Czuppon, P., Jordan, C. Y., Li, X.-Y., Olito, C. & others (2020). The search for sexually antagonistic genes: Practical insights from studies of local adaptation and statistical genomics. *Evolution Letters*, 4(5), 398-415 [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.192)
 
 2)	Young, M. J., **Dutoit, L.**, Robertson, F., van Heezik, Y., Seddon, P. J., & Robertson, B. C. (2020). Species in the faeces: DNA metabarcoding as a method to determine the diet of the endangered yellow-eyed penguin. *Wildlife Research*, 47(6), 509-522. [Link](https://www.publish.csiro.au/WR/WR19246) \| [NZ Geographic coverage](https://www.nzgeo.com/stories/hoiho-need-to-eat-better/) \| [Radio New Zealand Coverage](https://www.rnz.co.nz/national/programmes/morningreport/audio/2018765232/penguin-poo-dna-analysis-raises-concerns)
 
@@ -16,7 +16,7 @@ author_profile: true
 <img align="right" width="100" height="150" src="../mec.v28.13.cover.png">
 
 
-4) McCulloch, G. A., Foster, B. J., **Dutoit, L.**, Ingram, T., Hay, E., Veale, A. J., ... & Waters, J. M. (2019). Ecological gradients drive insect wing loss and speciation: The role of the alpine treeline. Molecular ecology, 28(13), 3141-3150.(*From the cover*)  [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.15114) \| [News and Views Article](https://onlinelibrary.wiley.com/doi/10.1111/mec.15152)
+4) McCulloch, G. A., Foster, B. J., **Dutoit, L.**, Ingram, T., Hay, E., Veale, A. J., ... & Waters, J. M. (2019). Ecological gradients drive insect wing loss and speciation: The role of the alpine treeline. *Molecular Ecology*, 28(13), 3141-3150.(*From the cover*)  [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.15114) \| [News and Views Article](https://onlinelibrary.wiley.com/doi/10.1111/mec.15152)
                                     
                                          
 <img align="right" width="100" height="150" src="../mec.2018.27.issue-18.cover.png">
