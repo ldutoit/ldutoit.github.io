@@ -1,7 +1,7 @@
 ---
 title: "Bioinformatics Spring School"
 collection: teaching
-type: "week-long workshop"
+type: "Week-long workshop"
 permalink: /teaching/Bioinformatics_spring_school
 venue: "University of Otago"
 date: 2020-11-23
