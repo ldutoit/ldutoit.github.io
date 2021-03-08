@@ -1,7 +1,7 @@
 ---
 title: "Genotyping-by-Sequencing Workshop"
 collection: teaching
-type: "two-days workshop"
+type: "Two-day workshop"
 permalink: /teaching/GBS_Workshop
 venue: "University of Otago"
 date: 2019-06-11
