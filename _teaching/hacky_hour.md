@@ -1,7 +1,7 @@
 ---
 title: "Hacky Hour"
 collection: teaching
-type: "forthnightly meeting"
+type: "Forthnightly meeting"
 permalink: /teaching/hacky_hour
 venue: "University of Otago"
 date: 2019-01-01
