@@ -1,7 +1,7 @@
 ---
 title: "Metabarcoding R visuals"
 collection: teaching
-type: "two-days workshop"
+type: "Two-day workshop"
 permalink: /teaching/metabarcoding_Rvisuals
 venue: "University of Otago"
 date: 2018-10-25
