@@ -1,7 +1,7 @@
 ---
 title: "RNA-Seq workshop"
 collection: teaching
-type: "week-long workshop"
+type: "Week-long workshop"
 permalink: /teaching/RNA_Seq_workshop
 venue: "University of Otago"
 date: 2020-07-30
