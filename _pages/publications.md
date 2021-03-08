@@ -44,4 +44,4 @@ You can find a full list of my publications on <a href="https://scholar.google.c
 
 </body></html>
 
-This World cloud is based on all the abstracts of my publications.
+This word cloud is based on all the abstracts of my publications.
