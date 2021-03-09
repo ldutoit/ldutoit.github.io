@@ -8,7 +8,7 @@ date: 2020-07-08
 location: "New Zealand"
 ---
 
-I create this fourth-year course that was taught for the first time in the Semester 2 2020. Along with this course, I developped two tiny online applications that allow visualisation of the loss of variation as a function of population size:
+I create this fourth-year course that was taught for the first time in the second semester of 2020. Along with this course, I developped two online applications that allow visualisation of the loss of variation as a function of population size:
 [Genetic drift app](https://popgenlulu.shinyapps.io/geneticdrift) [Loss of heterozygosity app](https://popgenlulu.shinyapps.io/lossofheterozygosity/)
 
 ### Course Outline
