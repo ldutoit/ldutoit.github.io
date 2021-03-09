@@ -16,4 +16,4 @@ I have a passion for teaching and I  firmly believe in developing a **Share and 
     <img src="../collage_home.png" alt="foo">
 
 </body></html>
-Pictures: Ludovic Dutoit.
+Pictures: Ludovic Dutoit. South Island, New Zealand.
