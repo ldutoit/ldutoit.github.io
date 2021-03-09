@@ -19,7 +19,7 @@ June 11-12 2019 \| Ludovic Dutoit and Alana Alexander
 
 ## Description
 With the age of high\-throughput sequencing, several techniques have been developed to
-genotype thousands of markers across hundreds of individuals at relatively low\-cost. One
+genotype thousands of markers across hundreds of individuals at relatively low cost. One
 group of those methods, Genotyping\-by\-Sequencing (GBS) cuts down on the amount of the genome sequenced
 by using restriction enzymes to repeatedly sequence the same genomic locations across
 individuals. The thousands of loci sequenced can bring high resolution to population
