@@ -31,7 +31,7 @@ author_profile: true
 
 7)	**Dutoit, L.**, Burri, R., Nater, A., Mugal, C. F., & Ellegren, H. (2017). Genomic distribution and estimation of nucleotide diversity in natural populations: Perspectives from the collared flycatcher (*Ficedula albicollis*) genome. *Molecular Ecology Resources*, 17(4), 586–597. (*From the cover*) [Link](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12602)\| [News and Views Article](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12632)
 
-<sup>1</sup> These authors contributed equally
+<sup>1</sup> FR and LD contributed equally
 
 You can find a full list of my publications on <a href="https://scholar.google.com/citations?user=RS3wR_UAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.
 
