@@ -11,4 +11,4 @@ redirect_from:
 
 Kia ora!
 
-[Let's find out!](www.google.com)
+[Let's find out!](https://www.google.com)
