@@ -8,10 +8,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
 
-Heading 1
-======
+How would Ludovic Dutoit fits in Te Tare Mātai Karerehe?
 
-Heading 2
-======
+[Let's find out!](www.google.com)
