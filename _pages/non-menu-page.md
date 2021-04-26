@@ -1,6 +1,6 @@
 ---
 permalink: /non-menu-page/
-title: "How would Ludovic Dutoit fits in Te Tare Mātai Karerehe?"
+title: "How would Ludovic Dutoit fit in Te Tare Mātai Karerehe?"
 excerpt: ""
 author_profile: false
 redirect_from: 
@@ -9,6 +9,4 @@ redirect_from:
 ---
 
 
-Kia ora!
-
-[Let's find out!](https://www.google.com)
+[A few ideas!](https://www.google.com)
